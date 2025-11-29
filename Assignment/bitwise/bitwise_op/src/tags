@@ -1,0 +1,38 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+addition	addition.c	/^int addition(int operandOne, int operandTwo) $/;"	f
+bit_pattren	bit_pattren.c	/^void bit_pattren(unsigned int inputNumber)$/;"	f
+check_even_odd	check_even_odd.c	/^void check_even_odd(unsigned int inputNumber)$/;"	f
+check_lsbbit	check_lsbit.c	/^void check_lsbbit(unsigned int inputNumber)$/;"	f
+check_msbbit	check_msbit.c	/^void check_msbbit(unsigned int inputNumber)$/;"	f
+count_ones_zeros	count_ones_zeros.c	/^void count_ones_zeros(unsigned int inputNumber)$/;"	f
+display_menu	menu.c	/^void display_menu()$/;"	f
+division	division.c	/^int division(int dividend, int divisor) $/;"	f
+extract_nthbit	extract_nthbit.c	/^unsigned int extract_nthbit(unsigned int inputNumber,unsigned int bits)$/;"	f
+highest_setbit	highest_setbit.c	/^unsigned int highest_setbit(unsigned int inputNumber)$/;"	f
+inputNumber	main.c	/^unsigned int inputNumber=0;$/;"	v
+invertbits	invertbits.c	/^unsigned int invertbits(unsigned int firstNumber,unsigned int bits,unsigned int bitPosition)$/;"	f
+left_rot	left_rot.c	/^unsigned int left_rot(unsigned int inputNumber,unsigned int bits)$/;"	f
+left_shift	left_shift.c	/^unsigned int left_shift(unsigned int inputNumber , unsigned int bits)$/;"	f
+lowest_setbit	lowest_setbit.c	/^unsigned int lowest_setbit(unsigned int inputNumber)$/;"	f
+main	main.c	/^void main()$/;"	f
+minimumbits	minimumbits.c	/^void minimumbits(unsigned int inputNumber)$/;"	f
+multiplication	multiplication.c	/^int multiplication(int operandOne, int operandTwo) $/;"	f
+reset_bits	reset_bits.c	/^unsigned int reset_bits(unsigned int firstNumber, unsigned int bits, unsigned int bitPosition)$/;"	f
+reverse_number	reverse_number.c	/^unsigned int reverse_number(unsigned int inputNumber)$/;"	f
+right_rot	right_rot.c	/^unsigned int right_rot(unsigned int inputNumber,unsigned int bits)$/;"	f
+right_shift	right_shift.c	/^unsigned int right_shift(unsigned int inputNumber , unsigned int bits)$/;"	f
+rotate_left	rotate_left.c	/^unsigned int rotate_left(unsigned int inputNumber, unsigned int nbits)$/;"	f
+rotate_right	rotate_right.c	/^unsigned int rotate_right(unsigned int inputNumber,unsigned int nbits)$/;"	f
+set_bits	set_bits.c	/^unsigned int set_bits(unsigned int firstNumber, unsigned int bits, unsigned int bitPosition)$/;"	f
+set_nthbit	set_nthbit.c	/^unsigned int set_nthbit(unsigned int inputNumber,unsigned int bits)$/;"	f
+setbits	setbits.c	/^unsigned int setbits(unsigned int firstNumber,unsigned int bits,unsigned int bitPosition,unsigned int secondNumber)$/;"	f
+subtraction	subtraction.c	/^int subtraction(int operandOne, int operandTwo) $/;"	f
+swap_bytes	swap_bytes.c	/^unsigned int swap_bytes(unsigned int inputNumber)$/;"	f
+swaping_numbers	swaping_numbers.c	/^void swaping_numbers(unsigned int firstNumber, unsigned int secondNumber)$/;"	f
+toggle_bits	toggle_bits.c	/^unsigned int toggle_bits(unsigned int firstNumber,unsigned int bits,unsigned int bitPosition)$/;"	f
+toggle_nthbit	toggle_nthbit.c	/^unsigned int toggle_nthbit(unsigned int inputNumber,unsigned int bits)$/;"	f

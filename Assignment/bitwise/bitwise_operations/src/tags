@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+addition	addition.c	/^int addition(int a, int b) $/;"	f
+check_even_odd	check_even_odd.c	/^void check_even_odd(int num)$/;"	f
+check_lsbbit	check_lsbbit.c	/^void check_lsbbit(int num)$/;"	f
+check_msbbit	check_msbbit.c	/^void check_msbbit(int num)$/;"	f
+count_ones_zeros	count_ones_zeros.c	/^void count_ones_zeros(int num)$/;"	f
+dec_hex	dec_hex.c	/^void dec_hex(int num)$/;"	f
+display_menu	menu.c	/^void display_menu()$/;"	f
+division	division.c	/^int division(int dividend, int divisor) $/;"	f
+extract_nthbit	extract_nthbit.c	/^int extract_nthbit(int num,int n)$/;"	f
+hextodec	hexa_dec.c	/^int hextodec(char hex[]) $/;"	f
+highest_setbit	highest_setbit.c	/^int highest_setbit(int num)$/;"	f
+invertbits	invertbits.c	/^void invertbits(int x,int n,int p)$/;"	f
+left_rot	left_rot.c	/^int left_rot(int num,int n)$/;"	f
+left_shift	left_shift.c	/^int left_shift(int num,int n)$/;"	f
+lowest_setbit	lowest_setbit.c	/^int lowest_setbit(int num)$/;"	f
+main	main.c	/^void main()$/;"	f
+minimumbits	minimumbits.c	/^void minimumbits(int num)$/;"	f
+multiplication	multiplication.c	/^int multiplication(int a, int b) $/;"	f
+print_binary	print_binary.c	/^void print_binary(int num)$/;"	f
+reset_bits	reset_bits.c	/^void reset_bits(int x,int n,int m)$/;"	f
+reverse_number	reverse_number.c	/^void reverse_number(int num)$/;"	f
+right_rot	right_rot.c	/^int right_rot(int num,int n)$/;"	f
+right_shift	right_shift.c	/^int right_shift(int num,int n)$/;"	f
+rotate_left	rotate_left.c	/^int rotate_left(int num, int n)$/;"	f
+rotate_right	rotate_right.c	/^int rotate_right(int num,int n)$/;"	f
+set_bits	set_bits.c	/^void set_bits(int x,int n,int m)$/;"	f
+set_nthbit	set_nthbit.c	/^int set_nthbit(int num,int n)$/;"	f
+setbits	setbits.c	/^void setbits(int x,int n,int p,int y)$/;"	f
+subtraction	subtraction.c	/^int subtraction(int a, int b) $/;"	f
+swap_bytes	swap_bytes.c	/^void swap_bytes(int num)$/;"	f
+swaping_numbers	swaping_numbers.c	/^void swaping_numbers(int x, int y)$/;"	f
+toggle_bits	toggle_bits.c	/^void toggle_bits(int x,int n,int m)$/;"	f
+toggle_nthbit	toggle_nthbit.c	/^int toggle_nthbit(int num, int n)$/;"	f
